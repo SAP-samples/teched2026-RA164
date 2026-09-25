@@ -21,6 +21,7 @@ In this hands-on session you will configure SAP Document AI end-to-end to proces
 - [Exercise 4 - Build a Basic workflow for email processing](exercises/ex4/)
 - [Exercise 5 - Add an input field and capture email metadata](exercises/ex5/)
 - [Exercise 6 - Create a Document Extension workflow with value-based routing](exercises/ex6/)
+- [Exercise 7 - Build a multi-source schema with vision mode](exercises/ex7/)
 
 ## Sample Documents
 
