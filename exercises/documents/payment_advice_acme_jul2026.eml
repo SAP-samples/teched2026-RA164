@@ -1,0 +1,133 @@
+Content-Type: multipart/mixed; boundary="===============7120265631481753140=="
+MIME-Version: 1.0
+From: ACME Corp Accounts Payable <accounts.payable@acme-corp.com>
+To: finance@sunrise-tech.com
+Subject: Payment Advice PA-2026-07-11-001 - ACME Corporation GmbH
+Date: Sat, 11 Jul 2026 09:14:22 +0100
+Message-ID: <PA-ACME-20260711-001@acme-corp.com>
+
+--===============7120265631481753140==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Finance Team,
+
+Please find attached our payment advice for the transfer processed on 11 July 2026.
+
+  Reference:    PA-2026-07-11-001
+  Amount:       EUR 48,250.00
+  Value Date:   14 July 2026
+  Invoices:     INV-2026-1042, INV-2026-1043, INV-2026-1044
+
+Attachments:
+  - payment_advice_acme_jul2026.pdf     official payment advice
+  - remittance_details.txt              line item breakdown
+  - invoice_reconciliation.xlsx         reconciliation spreadsheet
+  - acme_logo.png                       company logo
+
+Please confirm receipt at your earliest convenience.
+
+Best regards,
+Accounts Payable Department
+ACME Corporation GmbH
+
+--===============7120265631481753140==
+Content-Type: application/pdf
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="payment_advice_acme_jul2026.pdf"
+
+JVBERi0xLjQKJZOMi54gUmVwb3J0TGFiIEdlbmVyYXRlZCBQREYgZG9jdW1lbnQgKG9wZW5zb3Vy
+Y2UpCjEgMCBvYmoKPDwKL0YxIDIgMCBSIC9GMiAzIDAgUgo+PgplbmRvYmoKMiAwIG9iago8PAov
+QmFzZUZvbnQgL0hlbHZldGljYSAvRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZyAvTmFtZSAvRjEg
+L1N1YnR5cGUgL1R5cGUxIC9UeXBlIC9Gb250Cj4+CmVuZG9iagozIDAgb2JqCjw8Ci9CYXNlRm9u
+dCAvSGVsdmV0aWNhLUJvbGQgL0VuY29kaW5nIC9XaW5BbnNpRW5jb2RpbmcgL05hbWUgL0YyIC9T
+dWJ0eXBlIC9UeXBlMSAvVHlwZSAvRm9udAo+PgplbmRvYmoKNCAwIG9iago8PAovQ29udGVudHMg
+OCAwIFIgL01lZGlhQm94IFsgMCAwIDU5NS4yNzU2IDg0MS44ODk4IF0gL1BhcmVudCA3IDAgUiAv
+UmVzb3VyY2VzIDw8Ci9Gb250IDEgMCBSIC9Qcm9jU2V0IFsgL1BERiAvVGV4dCAvSW1hZ2VCIC9J
+bWFnZUMgL0ltYWdlSSBdCj4+IC9Sb3RhdGUgMCAvVHJhbnMgPDwKCj4+IAogIC9UeXBlIC9QYWdl
+Cj4+CmVuZG9iago1IDAgb2JqCjw8Ci9QYWdlTW9kZSAvVXNlTm9uZSAvUGFnZXMgNyAwIFIgL1R5
+cGUgL0NhdGFsb2cKPj4KZW5kb2JqCjYgMCBvYmoKPDwKL0F1dGhvciAoXChhbm9ueW1vdXNcKSkg
+L0NyZWF0aW9uRGF0ZSAoRDoyMDI2MDkyNDE2MTE1MyswMicwMCcpIC9DcmVhdG9yIChcKHVuc3Bl
+Y2lmaWVkXCkpIC9LZXl3b3JkcyAoKSAvTW9kRGF0ZSAoRDoyMDI2MDkyNDE2MTE1MyswMicwMCcp
+IC9Qcm9kdWNlciAoUmVwb3J0TGFiIFBERiBMaWJyYXJ5IC0gXChvcGVuc291cmNlXCkpIAogIC9T
+dWJqZWN0IChcKHVuc3BlY2lmaWVkXCkpIC9UaXRsZSAoXChhbm9ueW1vdXNcKSkgL1RyYXBwZWQg
+L0ZhbHNlCj4+CmVuZG9iago3IDAgb2JqCjw8Ci9Db3VudCAxIC9LaWRzIFsgNCAwIFIgXSAvVHlw
+ZSAvUGFnZXMKPj4KZW5kb2JqCjggMCBvYmoKPDwKL0ZpbHRlciBbIC9BU0NJSTg1RGVjb2RlIC9G
+bGF0ZURlY29kZSBdIC9MZW5ndGggMjA2Mgo+PgpzdHJlYW0KR2F0bT0+QmVkXCY6V2VEYmZjVEFw
+Jm5IW2pdZTtsJnNCKGNCSiswdHBSSnNyN00nZFtBbzYiNXA/W2p0T19wJGQySUstSlJgSERsMnB0
+dCdORCJpXExTayl0RitDdDQrMEklaCM0O1VCZi9VOkwwUTkrJ0dBJlVDUiUhN25MUCFMJFZIXGA1
+M2guUF1GPldCZDFsdFo9Z0tKTHMybVhlWThJS2JWZ2ooT09pTDBlVGVUKF4waXRhP2hjalgzLitU
+UyYqMCgwIWApK0tOPCZyQFw3RSY3T25hI2U2aVBebGl0ITRfTEhhL004WDpBMWc+I2dXbUY1blty
+QG5LdHVyalI5c1RiSD9WSDIodEp0cUpcJT9yZF5XS3JRTHVTZDJmQj9bXlgpYGc0cjZXOTFMLlFp
+L1ohbTE3TksxaHUhIl8wUU5rMm9mVGwsbStNczJccVc3RWgua2BBJG0iR3Nmb3UpQFI+RzslZW8o
+YGMtbXBkNUpMPWs/QzY0JyZZVWBnaDtPN3UtRyk9YkdacUNcXFlZJ0hjW2AzRj8hcj5NN1o0VzNz
+cHBjai1KVighKWxTPj8qMkIoIUZtb2RsIyZwQyZAJUZrI0hXTSk+amo7Q28vInFNWzNAJ1djbjpv
+ZmZqJHNsZmxAcVhRSk8jTlVQPnMkKHBFJj88bUNgTFtXQmdabSZCLW9Lc2I7Nz5zP0YjU2pWPzBh
+PEw2RipbOSM5Mm9HazZQOmdsIVMrQ1dsYmxiWDQ1TV4vNSprbVJsMj0mQ2tEXyVicEA8IXQ9RlBp
+MypOdVAwNS1FPzZsSG1vUFNoU19HPl9EbS5XdSozajlWaT9YY2hEWDsmVExSNnUrJThUa3JEVDRI
+XW9iNnRpWGghXE1YWS01VGhyUyEmdDlhai9IMzYtXEo/TnRRMUhiUDwpVVNsSWc2a0RMNUs/MCoi
+XEMsXjFfSEFra0FJTyJTPWtmIUxacSghPXJJOEFtOkYiaTMsZXNrdCssLjBvVGBmOmZSaypeSWok
+WkBIZDx0TyIuIWc2KU9cQihsMV9bXGI1I2QlISdLXVMtJVMmSFxwNUtRJis/YSFLTmMpLCcsKChM
+KCVkUFVuXEgvUk01ZkI2RCVpK2clUUx1Lj5GXzVAM15tajttKUVzS1JKZ0UjXXJpRmYvImlfLjJH
+X2I1bE5qNTZGRXBQMTM3TyFZTjs9KT1hK3E2MmxPZU89RChHUFhUXDAnXCYnUCVwXTJiXy11JzJb
+KW0nRXUhcGM0JEg3LipFUVNbOFNHJWdtPzJEJDBPJkZqRDVZJW9PW1lTSGw/UC5tJUxzNidmTVI1
+QDVJZzNcLFJsXC1QZlRIYSdsP3BLVEdwIlVTSE0oSTNbZSIlLTBkNXAsS1lDNFo6UTAldXFAby5K
+VjlUM041K2ZDVW9UclNKbDcrLzV0KUAwZHJvQTdeR0haZSY8SCVEQnNCUD1uQWgjIVEyPnEiRHNY
+YT0tJEhqYEYuIUlvVzBrUTU9Nk0hcTMrTDhSNjJtTTksQCMjJytMZ1k6OVtnWU5rV2lYZTJuP2pa
+KV9xZiRPTyRIT2JDaSdlPj5GP0xvJl5bQkZZNiJOTkxhTm1zTDcrbSslIk1bPGRbPic7W0BnRiRo
+VSdiKTtjYV1mQU5pKV0xPThiQSg8NTxjNWRnV1IzQUJISiQxOCgmYi5AZmw4NWtjL09CcyIpb1By
+MENmcDpLL1pqQmEzXmNFcElUYDEqLTlPYG8zViY/WC9YYElwdUEqUldedTN0TCZTQiUwTCI3Sid1
+U0Y/PFozRkdjLEhzV2NPZ0g0SjMtVkYncT0kI0tgN2xnUC5WLDFqO0NEZjJXdWtYWVM3UFxTUkRy
+STtDIiFwUD9xL1oqKl9CP24rTSs1XWMiRFwpNzhuLSFiOmttUldkcGJscklaKl5wMyVPRktAKExW
+c2VpZSZJOmU8P2pJNmFoXCNfUlVNcUY7KG0+PUY3NGI0K14yaTBkOEU7VnJIUF1RUzZbQiVpPzNH
+Riw0KVhQUXBZJmlWbTYsM1ZBIjIva0hWRkdjbiskQTUzcyd1PCg+Xyw+SWtNKG5iJj5KQiwpZC9N
+REAsSUI4KjolQl1kcl1rK01oWURfMFtNallAPXJ0R085OCoiUmU8VnA3NlgiaSZ0Q2U+dChSL0Zd
+YkByR1gtOTJnSmRFR0RyIyo6VEFBQWshVitvRjBsbzIjRWxwblY3RTwiVFI0W10scXBwYEIsU1pa
+YEhxYlQiViJlO05ZNDw8NVYuRTQ8PFRyYDVxJWQ3QWFkIi46ZVFALUNfSFBEc0E1JmcrKjNDUSw8
+MTpWa2VPOGYlIWpKM01vdV9xczptYUtXNCosbm9RcmVvTD4nRlpCYDA8IVsjNU4/Y0EqMTUpUmtd
+IS0uKy1GcD44KSpkU2hRSyxaVUFOSTkyPztTKGMtNGc7cTRrSnFbSz9XQW9Gb3BxcitlJVZfQHNW
+Sl4nRkg3VCw4dSk0ZWleKm9kdFNZTSZaTlQ9anJENjYrIykvVlwzR0lhNjNYYU5fSDRDWl4tNElA
+PjkoNW86KXBVI0kyUnIyanMhKD5ITVJrLjRQaj1PK0g/MDhvSzpxNGRSRzBEbChDTV1daHJvVG5h
+cGlubiclP1MoYSJdMkw4WC4jWnFZcCVHO05xO18sNl9kcm5TNTdMI2ROK0ROZ1gvSWonRnBvc0he
+b1BGNTRWT3U2Z29xYkMwMFQmPS5UJHNFOlkzUnAsLXBhciFtcGBiPkZZbmJ+PmVuZHN0cmVhbQpl
+bmRvYmoKeHJlZgowIDkKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDAwMDYxIDAwMDAwIG4gCjAw
+MDAwMDAxMDIgMDAwMDAgbiAKMDAwMDAwMDIwOSAwMDAwMCBuIAowMDAwMDAwMzIxIDAwMDAwIG4g
+CjAwMDAwMDA1MjQgMDAwMDAgbiAKMDAwMDAwMDU5MiAwMDAwMCBuIAowMDAwMDAwODcyIDAwMDAw
+IG4gCjAwMDAwMDA5MzEgMDAwMDAgbiAKdHJhaWxlcgo8PAovSUQgCls8YjExMjRjMzg4NzFkYzYw
+NGMzMWI1NjAyMzYwM2Y3ZGU+PGIxMTI0YzM4ODcxZGM2MDRjMzFiNTYwMjM2MDNmN2RlPl0KJSBS
+ZXBvcnRMYWIgZ2VuZXJhdGVkIFBERiBkb2N1bWVudCAtLSBkaWdlc3QgKG9wZW5zb3VyY2UpCgov
+SW5mbyA2IDAgUgovUm9vdCA1IDAgUgovU2l6ZSA5Cj4+CnN0YXJ0eHJlZgozMDg0CiUlRU9GCg==
+
+--===============7120265631481753140==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename="remittance_details.txt"
+
+REMITTANCE DETAILS - PA-2026-07-11-001
+========================================
+INV-2026-1042  15-May-2026  EUR 21,600.00  Disc EUR 432.00   Net EUR 21,168.00
+INV-2026-1043  01-Jun-2026  EUR 18,500.00  Disc EUR 370.00   Net EUR 18,130.00
+INV-2026-1044  22-Jun-2026  EUR  9,200.00  Disc EUR 248.00   Net EUR  8,952.00
+----------------------------------------
+TOTAL PAID: EUR 48,250.00
+Payment Method: Credit Transfer
+Bank Reference: DTBK-20260711-9921
+
+--===============7120265631481753140==
+Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice_reconciliation.xlsx"
+
+UEsDBA==
+--===============7120265631481753140==
+Content-Type: image/png
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="acme_logo.png"
+
+iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwADhQGAWjR9awAAAABJRU5ErkJggg==
+--===============7120265631481753140==--
