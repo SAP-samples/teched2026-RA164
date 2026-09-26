@@ -1,6 +1,6 @@
 # Explore B - Improve Extraction Accuracy with Instant Learning
 
-When you correct a field value in the review screen and confirm the document, DocAI remembers that correction and applies it automatically to the next document processed with the same schema. No retraining, no separate pipeline. The feedback loop is built into the normal review flow.
+Extracted information is not always perfect. When you review a document and correct a wrong value, you do not want to make the same correction every time. You want the system to learn from it. This is what Instant Learning does: once activated, DocAI remembers corrections you make during review and applies them automatically to the next document processed with the same schema. No retraining, no separate pipeline. The feedback loop is built into the normal review flow.
 
 ## B.1 - Import the Bill of Lading Schema
 
