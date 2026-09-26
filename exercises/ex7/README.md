@@ -76,7 +76,7 @@ All fields on this document appear once per notice, so no groups or tables are n
    Download the sample image from [https://i.imgur.com/hZg9a3E.jpeg](https://i.imgur.com/hZg9a3E.jpeg), select it using **Browse**, then click **Upload**.
 <br>![](images/3.png)
 
-4. Once processing completes, open the document. Check that:
+4. Once processing completes, open the document. Check the output:
    - `noticeNumber` is extracted as `N 3735700`
    - `forenames` and `familyName` are read correctly from the handwritten section
    - `dateOfOffence` and `timeOfOffence` are populated
