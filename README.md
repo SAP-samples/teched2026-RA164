@@ -1,10 +1,10 @@
-# RA164 - Automate Payment Advice Processing with SAP Document AI
+# RA164 - Hands on SAP Document AI: Next-generation intelligent document processing
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2026-RA164)](https://api.reuse.software/info/github.com/SAP-samples/teched2026-RA164)
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2026 session **RA164 - Automate Payment Advice Processing with SAP Document AI**.
+This repository contains the material for the SAP TechEd 2026 session **RA164 - Hands on SAP Document AI: Next-generation intelligent document processing**.
 
 ## Overview
 
