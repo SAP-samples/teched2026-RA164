@@ -2,7 +2,7 @@
 
 Normally, creating a schema means deciding upfront which fields to extract, naming them, setting data types, and configuring groups and tables. For documents you have never modelled before, there is a faster starting point: upload the document and let the AI propose a schema based on what it finds.
 
-This exercise shows how to use the AI-assisted schema generation feature. You will upload a batch of different document types in a single step, and DocAI will create a dedicated schema for each one automatically.
+This exercise shows how to use the AI-assisted schema generation feature. You will upload a batch of different document types in a single step, and SAP Document AI will create a dedicated schema for each one automatically.
 
 ## C.1 - Upload Documents with AI Schema Generation
 
@@ -19,7 +19,7 @@ This exercise shows how to use the AI-assisted schema generation feature. You wi
    - `priya_cv.pdf`
    - `SoW.pdf`
 
-5. Click **Upload**. DocAI will process each file independently, detect its document type, generate a schema, and run extraction, all in one step.
+5. Click **Upload**. SAP Document AI will process each file independently, detect its document type, generate a schema, and run extraction, all in one step.
 
 ## C.2 - Review the Results
 
@@ -32,6 +32,6 @@ This exercise shows how to use the AI-assisted schema generation feature. You wi
 
 ## What This Is Good For
 
-AI schema generation is useful when you encounter a new document type and want to see what DocAI can extract before investing time in a hand-crafted schema. It is especially practical for one-off documents or rapid prototyping.
+AI schema generation is useful when you encounter a new document type and want to see what SAP Document AI can extract before investing time in a hand-crafted schema. It is especially practical for one-off documents or rapid prototyping.
 
 For production use, review the generated schema and trim or adjust fields to match exactly what your downstream process needs.
