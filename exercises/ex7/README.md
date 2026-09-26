@@ -25,7 +25,7 @@ You will create the schema, enable vision mode, define the fields, and test extr
 
 ## A.2 - Enable Vision Mode
 
-By default, SAP Document AI extracts text using the document's text layer. Vision mode adds image processing on top, which is required for handwritten content and low-quality scans.
+By default, SAP Document AI extracts information from the document's text content. Vision mode adds image processing on top, which is required for handwritten content and low-quality scans.
 
 1. On the **Processing Settings** tab, click **Edit**.
 
