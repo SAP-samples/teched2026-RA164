@@ -86,4 +86,4 @@ All fields on this document appear once per notice, so no groups or tables are n
 
 ## Why Vision Mode Matters
 
-The infringement notice is filled in by hand. A standard text-layer extraction would return empty or garbled values for all handwritten fields. With **Text and Image** mode, the model reads the rendered page image directly, the same way a human would, and returns accurate structured output without any OCR pre-processing step on your side.
+The infringement notice is filled in by hand. Without vision mode, handwritten values would return empty or garbled results. With **Text and Image** mode, the model reads the rendered page image directly, the same way a human would, and returns accurate structured output without any OCR pre-processing step on your side.
