@@ -76,11 +76,7 @@ All fields on this document appear once per notice, so no groups or tables are n
    > **Get the sample image:** Open [https://i.imgur.com/hZg9a3E.jpeg](https://i.imgur.com/hZg9a3E.jpeg) in your browser, right-click the image, and choose **Save image as** to download it. Then select it using **Browse** and click **Upload**.
 <br>![](images/3.png)
 
-4. Once processing completes, open the document. Check the output:
-   - `noticeNumber` is extracted as `N 3735700`
-   - `forenames` and `familyName` are read correctly from the handwritten section
-   - `dateOfOffence` and `timeOfOffence` are populated
-   - `registrationNumber` matches `AEH 924`
+4. Once processing completes, open the document and check the output.
 
 > **Try it:** Go back to **Processing Settings**, switch the mode to **Text** only, re-upload the same image, and compare the results. Most handwritten field values will be missing or incorrect; the difference shows clearly how much the visual signal contributes.
 
