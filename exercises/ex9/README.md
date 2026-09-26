@@ -34,4 +34,4 @@ This exercise shows how to use the AI-assisted schema generation feature. You wi
 
 AI schema generation is useful when you encounter a new document type and want to see what SAP Document AI can extract before investing time in a hand-crafted schema. It is especially practical for one-off documents or rapid prototyping.
 
-For production use, review the generated schema and trim or adjust fields to match exactly what your downstream process needs.
+For production use, review the generated schema and trim or adjust fields to match exactly what your downstream process needs. Use the **Open Schema Studio** button on the document to review, edit, and save the generated schema directly.
