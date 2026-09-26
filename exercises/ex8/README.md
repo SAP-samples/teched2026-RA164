@@ -26,9 +26,7 @@ This exercise uses a Bill of Lading schema. Import it from [`BoL_Version_1.json`
 
 1. From the home screen, click **Manage Documents**.
 
-2. Set **Document Type** to `Custom`, then set **Schema** to `BoL` and click **Go**.
-
-3. Click **Upload Document** and set:
+2. Click **Upload Document** and set:
 
    | Field | Value |
    |---|---|
@@ -38,7 +36,7 @@ This exercise uses a Bill of Lading schema. Import it from [`BoL_Version_1.json`
 
    Select `Bill of Lading 1.pdf` from the `documents` folder, then click **Upload**.
 
-4. Wait until the document reaches **Review Needed** status. Open it.
+3. Wait until the document reaches **Review Needed** status. Open it.
 <br>![](images/ex6_2_1.png)
 
 ## B.4 - Correct Extraction Errors
