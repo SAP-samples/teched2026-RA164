@@ -73,7 +73,7 @@ All fields on this document appear once per notice, so no groups or tables are n
    | Schema | `INFRINGEMENT_NOTICE` |
    | Schema Version | `1` |
 
-   Download the sample image from [https://i.imgur.com/hZg9a3E.jpeg](https://i.imgur.com/hZg9a3E.jpeg), select it using **Browse**, then click **Upload**.
+   > **Get the sample image:** Open [https://i.imgur.com/hZg9a3E.jpeg](https://i.imgur.com/hZg9a3E.jpeg) in your browser, right-click the image, and choose **Save image as** to download it. Then select it using **Browse** and click **Upload**.
 <br>![](images/3.png)
 
 4. Once processing completes, open the document. Check the output:
