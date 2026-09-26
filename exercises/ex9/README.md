@@ -26,7 +26,7 @@ This exercise shows how to use the AI-assisted schema generation feature. You wi
 1. Once processing completes, the document list shows all four files with status **Review Needed**. Each document has been assigned its own AI-generated schema.
 <br>![](images/2.png)
 
-2. Notice that the birth certificate was recognised as **Birth Certificate** and matched to a known content type, while the CV, SoW, and Company Registry extract each got a unique `AI_generated_custom_*` schema created on the fly.
+2. All four documents have been assigned an AI-generated schema. Notice that the birth certificate was recognised as **Birth Certificate** and matched to a known document type, while the CV, SoW, and Company Registry extract each got a unique `AI_generated_custom_*` schema created on the fly.
 
 3. Open each document and inspect the extracted fields. The schemas are a starting point: field names, labels, and data types are suggested by the AI based on the document structure, but you can refine them just like any manually created schema.
 
