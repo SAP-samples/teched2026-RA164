@@ -61,7 +61,7 @@ So far you have uploaded PDF files directly. In practice, Payment Advice documen
 2. In the configuration panel, set **Identifier** to `file_type_check`. Click **Apply**.
 <br>![](images/05_04_0010.png)
 
-3. To set the branch expression, click the **pencil icon** next to the **True** branch. A context menu appears — click **Edit**.
+3. To set the branch expression, click the **pencil icon** next to the **True** branch. A context menu appears; click **Edit**.
 <br>![](images/05_04_0020.png)
 
 4. In the Edit dialog, set:
@@ -74,7 +74,7 @@ So far you have uploaded PDF files directly. In practice, Payment Advice documen
    Click **Apply**.
 <br>![](images/05_04_0030.png)
 
-   This branch is taken only for PDF attachments. The **default** branch (for `.txt`, `.xlsx`, `.png`, etc.) leads straight to End — those files are silently skipped.
+   This branch is taken only for PDF attachments. The **default** branch (for `.txt`, `.xlsx`, `.png`, etc.) leads straight to End, where those files are silently skipped.
 
 ## Exercise 4.5 - Add an Extraction Node on the PDF Branch
 
@@ -103,7 +103,7 @@ So far you have uploaded PDF files directly. In practice, Payment Advice documen
 2. Open the **Executions** tab. A new entry appears with status **Started**. Click it to open the execution details.
 <br>![](images/05_06_0030.png)
 
-3. The execution trace shows each node — Start, Email Split, ForEach, and End — all marked **Success**. The Email Split output shows 4 files processed (the PDF plus the `.txt`, `.xlsx`, and `.png` attachments). The ForEach ran 4 iterations: the PDF one triggered the Extraction, the other three hit the default branch and were skipped.
+3. The execution trace shows each node (Start, Email Split, ForEach, and End) all marked **Success**. The Email Split output shows 4 files processed (the PDF plus the `.txt`, `.xlsx`, and `.png` attachments). The ForEach ran 4 iterations: the PDF one triggered the Extraction, the other three hit the default branch and were skipped.
 <br>![](images/05_06_0040.png)
 
 4. Navigate to **Manage Documents** for **PAYMENT_ADVICE_STANDARD**. A new document entry for the PDF attachment should appear. If nothing shows up yet, wait a few seconds and click **Go** again to re-apply the filter.

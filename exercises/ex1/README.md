@@ -18,15 +18,14 @@ SAP ships ready-made **content schemas** for common business document types. You
 <br>![](images/01_01_0020.png)
 
 5. Switch to the **User** tab. The schema appears with status **Active**.
-<br>![](images/01_01_0040.png)
 
 ## Exercise 1.2 - Trim the Schema
 
-The schema comes with a detailed `businessPartner` group containing many granular address sub-fields. For Payment Advice processing we only need the sender name and address — the rest adds noise. You will remove the unnecessary fields now.
+The schema comes with a detailed `businessPartner` group containing many granular address sub-fields. For Payment Advice processing we only need the sender name and address; the rest adds noise. You will remove the unnecessary fields now.
 
 1. Click **PAYMENT_ADVICE_STANDARD**, then **Version 1**.
 
-2. The schema detail opens on the **Entities** tab. Take a moment to explore the other tabs — each controls a different aspect:
+2. The schema detail opens on the **Entities** tab. Take a moment to explore the other tabs, each of which controls a different aspect:
 
    - **Entities**: the fields the AI extracts. Each field has a name, data type, and field type (Extraction or Input).
    - **Processing Settings**: natural-language instructions that guide the AI per field. Used in Exercise 2.
@@ -79,7 +78,7 @@ The schema comes with a detailed `businessPartner` group containing many granula
 4. A new entry appears. Wait a few seconds until the status changes to **Review Needed**.
 <br>![](images/01_02_0050.png)
 
-5. Click the document to open the review screen. On the left you see the document preview with extracted fields highlighted; on the right the field values with confidence indicators. Verify that key fields — total amount, payer name, payment reference — have been extracted correctly.
+5. Click the document to open the review screen. On the left you see the document preview with extracted fields highlighted; on the right the field values with confidence indicators. Verify that key fields such as total amount, payer name, and payment reference have been extracted correctly.
 <br>![](images/01_02_0060.png)
 
 ## Summary

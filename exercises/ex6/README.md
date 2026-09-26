@@ -1,6 +1,6 @@
 # Exercise 6 - Create a Document Extension Workflow with Value-Based Routing
 
-A Document Extension workflow fires automatically after a document is confirmed. It receives the full extraction result and can act on it — calling an external system, sending a notification, or, as in this exercise, routing the document to different paths based on extracted values.
+A Document Extension workflow fires automatically after a document is confirmed. It receives the full extraction result and can act on it: calling an external system, sending a notification, or, as in this exercise, routing the document to different paths based on extracted values.
 
 You will build an extension workflow that checks the gross payment amount: payments above EUR 100,000 are sent back to **Review Needed** for manual review; payments at or below that threshold stay **Confirmed** for straight-through processing.
 
@@ -91,7 +91,7 @@ The first node in a Document Extension workflow must be an **Extraction Result**
 
 ## Exercise 6.5 - Link the Extension Workflow to the Schema
 
-The extension workflow only fires if it is registered on the schema. The **Notifications and Extensions** tab is editable while the schema is active — no need to deactivate.
+The extension workflow only fires if it is registered on the schema. The **Notifications and Extensions** tab is editable while the schema is active, so there is no need to deactivate.
 
 1. Open **PAYMENT_ADVICE_STANDARD**, Version 1. Open the **Notifications and Extensions** tab.
 
@@ -113,11 +113,11 @@ The extension workflow only fires if it is registered on the schema. The **Notif
 
 ## Exercise 6.6 - Test End-to-End
 
-1. Execute `my_payment_basic` with `payment_advice_acme_jul2026.eml` (EUR 48,250 — below threshold). Once extracted, confirm the document manually if auto-confirm did not trigger.
+1. Execute `my_payment_basic` with `payment_advice_acme_jul2026.eml` (EUR 48,250, below threshold). Once extracted, confirm the document manually if auto-confirm did not trigger.
 
-2. Execute `my_payment_basic` with `payment_advice_meridian_sep2026.eml` (EUR 113,695 — above threshold). Confirm the document.
+2. Execute `my_payment_basic` with `payment_advice_meridian_sep2026.eml` (EUR 113,695, above threshold). Confirm the document.
 
-3. Open **Manage Documents**. The Meridian document should show **Review Needed** — the extension workflow set it back after confirmation. The ACME document should remain **Confirmed**.
+3. Open **Manage Documents**. The Meridian document should show **Review Needed**: the extension workflow set it back after confirmation. The ACME document should remain **Confirmed**.
 <br>![](images/07_06_0010.png)
 
 ## Summary
@@ -133,4 +133,4 @@ You have built a complete end-to-end document processing pipeline:
 | 5 | Captured the sender email address as an input field via workflow expression |
 | 6 | Created a Document Extension workflow that routes on extracted value |
 
-From a single email arriving in an inbox, SAP Document AI now: unpacks the attachments, extracts only the PDF payment advices, stamps each with the sender identity, auto-confirms high-confidence results, and immediately routes high-value payments back to review — without any manual intervention.
+From a single email arriving in an inbox, SAP Document AI now: unpacks the attachments, extracts only the PDF payment advices, stamps each with the sender identity, auto-confirms high-confidence results, and immediately routes high-value payments back to review, without any manual intervention.

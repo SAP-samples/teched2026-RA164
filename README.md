@@ -8,23 +8,41 @@ This repository contains the material for the SAP TechEd 2026 session **RA164 - 
 
 ## Overview
 
-In this hands-on session you will configure SAP Document AI end-to-end to process incoming Payment Advice documents. You will activate a pre-built extraction schema, customise it for your business needs, automate the review process, and build a workflow that handles emails with mixed attachments — extracting only the relevant PDF and stamping it with email metadata. A Document Extension workflow then routes high-value payments to a separate approval path.
+In this hands-on session you will configure SAP Document AI end-to-end to process incoming Payment Advice documents. You will activate a pre-built extraction schema, customise it for your business needs, automate the review process, and build a workflow that handles emails with mixed attachments, extracting only the relevant PDF and stamping it with email metadata. A Document Extension workflow then routes high-value payments to a separate approval path.
 
 **Duration:** approximately 60 minutes
 
-## Exercises
+## Getting Started
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - Activate the Payment Advice schema and process your first document](exercises/ex1/)
+Open the URL provided by your session facilitator and log in with the credentials they shared with you. You will land on the SAP Document AI home screen.
+
+From here you can take any path that suits you:
+- Follow the **Guided Exercises** below for a structured end-to-end walkthrough.
+- Pick one of the **Explore Further** exercises to try out a specific feature independently.
+- Bring your own documents and experiment freely.
+
+All sample files can be found in [exercises/documents/](exercises/documents/).
+
+## Guided Exercises
+
+Work through these in order. Each exercise builds on the previous one.
+
+- [Exercise 1 - Set up the Payment Advice schema and process your first document](exercises/ex1/)
 - [Exercise 2 - Add a custom field with processing instructions](exercises/ex2/)
 - [Exercise 3 - Review documents and enable automatic confirmation](exercises/ex3/)
 - [Exercise 4 - Build a Basic workflow for email processing](exercises/ex4/)
 - [Exercise 5 - Add an input field and capture email metadata](exercises/ex5/)
 - [Exercise 6 - Create a Document Extension workflow with value-based routing](exercises/ex6/)
 
-## Sample Documents
+## Explore Further
 
-All sample files are in [exercises/documents/](exercises/documents/).
+Finished early or want to dig deeper? These standalone exercises are independent of the main track. Each one focuses on a single capability and can be completed in any order.
+
+- [Explore A - Build a custom schema from scratch with vision mode](exercises/ex7/)
+- [Explore B - Improve extraction accuracy with Instant Learning](exercises/ex8/)
+- [Explore C - Auto-generate a schema by uploading a document](exercises/ex9/)
+
+## Sample Documents
 
 | File | Description |
 |---|---|
@@ -32,6 +50,12 @@ All sample files are in [exercises/documents/](exercises/documents/).
 | `payment_advice_meridian_sep2026.eml` | Email with 4 attachments, total EUR 113,695 (above 100k) |
 | `payment_advice_acme_jul2026.pdf` | Standalone PDF for exercises 1-4 |
 | `payment_advice_meridian_sep2026.pdf` | Standalone PDF for exercises 1-4 |
+| `Bill of Lading 1.pdf` | Bill of Lading used in Explore B |
+| `Bill of Lading 2 FR.pdf` | French Bill of Lading used in Explore B |
+| `birth certificate li.pdf` | Birth certificate used in Explore C |
+| `Company Registry Extract House of Companies UK.pdf` | Company registry extract used in Explore C |
+| `priya_cv.pdf` | CV used in Explore C |
+| `SoW.pdf` | Statement of Work used in Explore C |
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.

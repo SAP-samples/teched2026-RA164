@@ -9,7 +9,7 @@ After consistent use, extraction results become reliable enough to skip manual r
    The document header shows the current status (**Review Needed**), the confidence score, and key extracted header fields. Click **Edit** to enter review mode.
 <br>![](images/04_01_0010.png)
 
-2. The full review screen opens, showing the document preview on the left and the extracted field values on the right. Fields are grouped by section — **Basic Data**, **Business Partner**, and **Amounts**.
+2. The full review screen opens, showing the document preview on the left and the extracted field values on the right. Fields are grouped by section: **Basic Data**, **Business Partner**, and **Amounts**.
 
    To correct a value using the document preview: click the text directly in the PDF, then in the **Annotation Panel** select the target field from the dropdown, confirm or adjust the value, and click **Apply**.
 <br>![](images/04_01_0020.png)
@@ -28,7 +28,7 @@ After consistent use, extraction results become reliable enough to skip manual r
 
 4. Click **Save**, then **Activate** the schema.
 
-5. Upload `payment_advice_acme_jul2026.pdf` again. This time the document should skip **Review Needed** and land directly in **Confirmed** — all fields exceeded the 75% threshold.
+5. Upload `payment_advice_acme_jul2026.pdf` again. This time the document should skip **Review Needed** and land directly in **Confirmed**: all fields exceeded the 75% threshold.
 
 ## Summary
 

@@ -43,9 +43,9 @@ The standard Payment Advice schema extracts financial data but does not classify
 
 1. Click **Activate** to bring the schema back to **Active** status.
 
-2. Navigate to **Manage Documents** and upload `payment_advice_acme_jul2026.pdf` again (ACME in Germany paying Sunrise in the Netherlands — expected result: `SEPA`).
+2. Navigate to **Manage Documents** and upload `payment_advice_acme_jul2026.pdf` again (ACME in Germany paying Sunrise in the Netherlands; expected result: `SEPA`).
 
-3. Open the document. Find the **Payment Scope** field in the **Basic Data** section — it should show `SEPA`.
+3. Open the document. Find the **Payment Scope** field in the **Basic Data** section; it should show `SEPA`.
 <br>![](images/03_01_0060.png)
 
 ## Summary

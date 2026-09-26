@@ -1,6 +1,6 @@
 # Exercise 5 - Add an Input Field and Capture Email Metadata
 
-Extracted fields hold values read from the document. Input fields are different: they hold context injected by the workflow — information that is not in the document itself. In this exercise you will add an input field to the schema and use the workflow to write the sender's email address into it automatically.
+Extracted fields hold values read from the document. Input fields are different: they hold context injected by the workflow: information that is not in the document itself. In this exercise you will add an input field to the schema and use the workflow to write the sender's email address into it automatically.
 
 ## Exercise 5.1 - Add an Input Field to the Schema
 
@@ -21,7 +21,7 @@ Extracted fields hold values read from the document. Input fields are different:
 
 3. The field appears in the entity list. Click **Edit Settings** next to `sender_email`. In the right panel, set **Processor Type** to **Input**.
 
-   The **Input** processor type marks this field as workflow-populated rather than AI-extracted. The model will not attempt to read it from the document — only a workflow expression can write to it.
+   The **Input** processor type marks this field as workflow-populated rather than AI-extracted. The model will not attempt to read it from the document; only a workflow expression can write to it.
 
    Click **Save**.
 <br>![](images/06_01_0020.png)
@@ -49,7 +49,7 @@ Extracted fields hold values read from the document. Input fields are different:
 
 2. Once processing completes, open **Manage Documents** and click the resulting document.
 
-3. Find the **Sender Email** field in the **Basic Data** section — it should show `accounts.payable@acme-corp.com`, the sender address from the email envelope, not extracted from the PDF. Notice that **Payment Scope** still shows `SEPA`, inferred purely from the payer and payee country data.
+3. Find the **Sender Email** field in the **Basic Data** section; it should show `accounts.payable@acme-corp.com`, the sender address from the email envelope, not extracted from the PDF. Notice that **Payment Scope** still shows `SEPA`, inferred purely from the payer and payee country data.
 <br>![](images/06_03_0010.png)
 
    This pattern is powerful in production: you can stamp every document with its origin channel, the operator who uploaded it, or any other runtime context that the AI cannot see inside the document.
