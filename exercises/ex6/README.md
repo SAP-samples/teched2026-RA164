@@ -134,3 +134,5 @@ You have built a complete end-to-end document processing pipeline:
 | 6 | Created a Document Extension workflow that routes on extracted value |
 
 From a single email arriving in an inbox, SAP Document AI now: unpacks the attachments, extracts only the PDF payment advices, stamps each with the sender identity, auto-confirms high-confidence results, and immediately routes high-value payments back to review, without any manual intervention.
+
+If you have time left, head over to the [Explore Further](../../README.md#explore-further) exercises to try out vision mode, Instant Learning, or AI-assisted schema generation.
