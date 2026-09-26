@@ -50,7 +50,7 @@ This exercise uses a Bill of Lading schema. Import it from [`BoL_Version_1.json`
 3. Click on the correct value in the document preview, then assign it to the **Package Count** field.
 <br>![](images/ex6_2_4.png)
 
-4. Open the **Carrier Information** table. Notice that **Material No** and **Description** are not extracted correctly.
+4. Open the **Carrier Information** table. Notice that **Material No** and **Description** are not extracted correctly: the Description contains the material number and Material No has picked up the unit of measure instead.
 <br>![](images/ex6_2_6a.png)
 
 5. Correct both: select `X-1316` as **Material No** and `Printer Ink Cartridge` as **Description**.
