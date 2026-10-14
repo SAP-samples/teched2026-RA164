@@ -35,8 +35,7 @@ The schema comes with a detailed `businessPartner` group containing many granula
 
 3. Click **Deactivate** to make the schema editable.
 
-4. On the **Entities** tab, expand the **businessPartner** group. Select the checkboxes for all fields except `senderName`:
-   - `senderAddress`
+4. On the **Entities** tab, expand the **businessPartner** group. Select the checkboxes for all fields except `senderName` and `senderAddress`:
    - `taxId`
    - `senderId`
    - `senderDistrict`
@@ -51,7 +50,7 @@ The schema comes with a detailed `businessPartner` group containing many granula
    Click **Delete**.
 <br>![](images/01_01_0050.png)
 
-5. The group now contains only `senderName`. Click **Save**.
+5. The group now contains only `senderName` and `senderAddress`. Click **Save**.
 <br>![](images/01_01_0060.png)
 
 6. Click **Activate** to bring the schema back to **Active** status.
