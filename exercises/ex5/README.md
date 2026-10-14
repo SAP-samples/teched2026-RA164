@@ -30,7 +30,7 @@ Extracted fields hold values read from the document. Input fields are different:
 
 ## Exercise 5.2 - Map the Email Sender into the Input Field
 
-1. Open `my_payment_basic` in the Workflows list. Click **Edit**.
+1. Open `my_payment_basic` in the Workflows list. Click **Deactivate** to be able to change it.
 
 2. Click the **Extraction** node (`extract_pa`) to open its configuration panel.
 
