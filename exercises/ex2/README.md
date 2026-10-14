@@ -32,7 +32,7 @@ The standard Payment Advice schema extracts financial data but does not classify
 1. Open the **Processing Settings** tab. The schema shows status **INACTIVE**. Click **Edit**.
 <br>![](images/03_01_0040.png)
 
-2. Scroll down to the **Processing Instructions per Field** section. Search for `payment_sc` to find your new field. Enter the following text in the **Processing Instructions** box for **Payment Scope**:
+2. Scroll down to the **Processing Instructions per Field** section. Search for `payment_scope` to find your new field. Enter the following text in the **Processing Instructions** box for **Payment Scope**:
 
    > Classify the payment scope based on the payer and payee countries. Return `Domestic` if both payer and payee are in the same country. Return `SEPA` if both are in SEPA countries but different countries. Return `International` if the payee is outside the SEPA zone.
 
