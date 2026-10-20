@@ -36,11 +36,18 @@ By default, SAP Document AI extracts information from the document's text conten
 
 ## A.3 - Add Fields
 
-All fields on this document appear once per notice, so no groups or tables are needed.
+All fields on this document appear once per notice, so no tables are needed.
 
-1. Click **Deactivate** to make the schema editable.
+1. On the **Entities** tab, click **Add**, then **Add Group**. Fill in the dialog:
 
-2. On the **Entities** tab, click **Add**, then **Add Field** for each row below:
+   | Field | Value                 |
+   |---|-----------------------|
+   | Name | `notice`              |
+   | Label | `Infringement Notice` |
+
+   Click **Add**.
+
+2. **Add Fields** for each row below:
 
    | Name | Label | Data Type | Mandatory |
    |---|---|---|---|
