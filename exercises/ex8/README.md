@@ -12,7 +12,8 @@ This exercise uses a Bill of Lading schema. Import it from [`BoL_Version_1.json`
 2. Click **Import** and select `BoL_Version_1.json` from the `ex8` folder.
 <br>![](images/new_2.png)
 
-3. Confirm the schema name `BoL` and click **Upload**. The schema appears in the **User** tab with status **Active**.
+3. Confirm the schema name `BoL` and click **Upload**. 
+4. Confirm The schema appears in the **User** tab and that it has an active version. If not, click activate it.
 
 ## B.2 - Enable Instant Learning
 
