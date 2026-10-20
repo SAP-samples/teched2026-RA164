@@ -8,18 +8,16 @@ This exercise shows how to use the AI-assisted schema generation feature. You wi
 
 1. From the home screen, click **Manage Documents**.
 
-2. Click **Upload Document**.
-
-3. In the upload dialog, toggle **Use AI to determine document type and generate a schema** to **YES**. Notice that the Document Type, Schema, and Schema Version fields are no longer required; the AI will fill these in.
-<br>![](images/1.png)
-
-4. Click **Browse** and select all four sample files from the `documents` folder:
+2. Click **Upload Document** and select all four sample files from the `documents` folder:
    - `birth certificate li.pdf`
    - `Company Registry Extract House of Companies UK.pdf`
    - `priya_cv.pdf`
    - `SoW.pdf`
 
-5. Click **Upload**. SAP Document AI will process each file independently, detect its document type, generate a schema, and run extraction, all in one step.
+3. In the upload dialog, toggle **Use AI to determine document type and generate a schema** to **YES**. Notice that the Document Type, Schema, and Schema Version fields are no longer required; the AI will fill these in.
+<br>![](images/1.png)
+
+4. Click **Upload**. SAP Document AI will process each file independently, detect its document type, generate a schema, and run extraction, all in one step.
 
 ## C.2 - Review the Results
 
