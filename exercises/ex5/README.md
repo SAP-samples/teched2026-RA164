@@ -1,6 +1,6 @@
 # Exercise 5 - Add an Input Field and Capture Email Metadata
 
-Extracted fields hold values read from the document. Input fields are different: they hold context injected by the workflow: information that is not in the document itself. In this exercise you will add an input field to the schema and use the workflow to write the sender's email address into it automatically.
+Extracted fields hold values read from the document. Input fields are different: they hold context injected by the caller — a workflow, a channel, or a human uploader — information that is not in the document itself. In this exercise you will add an input field to the schema and use the workflow to write the sender's email address into it automatically.
 
 ## Exercise 5.1 - Add an Input Field to the Schema
 
