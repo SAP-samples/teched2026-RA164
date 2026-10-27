@@ -29,7 +29,7 @@ The standard Payment Advice schema extracts financial data but does not classify
 
 ## Exercise 2.3 - Add Processing Instructions
 
-1. Open the **Processing Settings** tab. The schema shows status **INACTIVE**. Click **Edit**.
+1. Open the **Processing Settings** tab. The input fields are read-only. Click **Edit** to enable them.
 <br>![](images/03_01_0040.png)
 
 2. Scroll down to the **Processing Instructions per Field** section. Search for `payment_scope` to find your new field. Enter the following text in the **Processing Instructions** box for **Payment Scope**:
