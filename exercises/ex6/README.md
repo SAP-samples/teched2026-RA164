@@ -14,7 +14,7 @@ You will build an extension workflow that checks the gross payment amount: payme
    |---|---|
    | Name | `my_payment_extension` |
    | Label | `My Payment Extension Workflow` |
-   | Workflow Type | **Document Extension** |
+   | Workflow Type | **Extension** |
 
    Click **Create**.
 <br>![](images/07_01_0010.png)
