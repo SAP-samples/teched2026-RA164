@@ -17,7 +17,7 @@ SAP ships ready-made **content schemas** for common business document types. You
 4. In the dialog, select version **1**, check **Activate**, and click **Create**.
 <br>![](images/01_01_0020.png)
 
-5. Switch to the **User** tab. The schema appears with status **Active**.
+5. Switch to the **User** tab. The schema appears with one active version.
 
 ## Exercise 1.2 - Trim the Schema
 
