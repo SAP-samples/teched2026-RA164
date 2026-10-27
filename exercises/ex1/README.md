@@ -77,7 +77,7 @@ The schema comes with a detailed `businessPartner` group containing many granula
 4. A new entry appears. Wait a few seconds until the status changes to **Review Needed**.
 <br>![](images/01_02_0050.png)
 
-5. Click the document to open the review screen. On the left you see the document preview with extracted fields highlighted; on the right the field values with confidence indicators. Verify that key fields such as total amount, payer name, and payment reference have been extracted correctly.
+5. Click the document to open the review screen. On the left you see the document preview with extracted fields highlighted; on the right the field values with confidence indicators. Verify that key fields such as **Payment Amount**, **Payment Reference**, and **Business Partner Name** have been extracted correctly.
 <br>![](images/01_02_0060.png)
 
 ## Summary
