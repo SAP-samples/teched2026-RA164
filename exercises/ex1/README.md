@@ -14,14 +14,14 @@ SAP ships ready-made **content schemas** for common business document types. You
 3. Search for `PAYMENT_ADVICE`. Select the checkbox next to **PAYMENT_ADVICE_STANDARD** and click **Enable**.
 <br>![](images/01_01_0010.png)
 
-4. In the dialog, select version **1**, check **Activate immediately**, and click **Create**.
+4. In the dialog, select version **1**, check **Activate**, and click **Create**.
 <br>![](images/01_01_0020.png)
 
-5. Switch to the **User** tab. The schema appears with status **Active**.
+5. Switch to the **User** tab. The schema appears with one active version.
 
 ## Exercise 1.2 - Trim the Schema
 
-The schema comes with a detailed `businessPartner` group containing many granular address sub-fields. For Payment Advice processing we only need the sender name and address; the rest adds noise. You will remove the unnecessary fields now.
+The schema comes with a detailed `businessPartner` group containing many granular address sub-fields. For our exercise we only need the sender name and address. The rest adds noise. You will remove the unnecessary fields now.
 
 1. Click **PAYMENT_ADVICE_STANDARD**, then **Version 1**.
 
@@ -29,7 +29,7 @@ The schema comes with a detailed `businessPartner` group containing many granula
 
    - **Entities**: the fields the AI extracts. Each field has a name, data type, and field type (Extraction or Input).
    - **Processing Settings**: natural-language instructions that guide the AI per field. Used in Exercise 2.
-   - **Automation**: confidence thresholds for automatic confirmation. Configured in Exercise 3.
+   - **Automation**: confidence thresholds for automatic confirmation. Configured in Explore D.
    - **Notifications and Extensions**: links workflows that fire after processing. Configured in Exercise 6.
 <br>![](images/01_02_0010.png)
 
