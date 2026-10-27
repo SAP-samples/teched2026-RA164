@@ -34,7 +34,7 @@ Extracted fields hold values read from the document. Input fields are different:
 
 2. Click the **Extraction** node (`extract_pa`) to open its configuration panel.
 
-3. Under **Schema Input Fields** you will see `Sender Email` listed. Toggle it **ON** and enter the expression:
+3. Under **Schema Input Fields** you will see `Sender Email` listed. Toggle **Expression** on and enter:
 
    ```
    SAP.EmailUtils.getFrom(fileId).getAddress()
