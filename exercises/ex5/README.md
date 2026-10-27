@@ -21,7 +21,7 @@ Extracted fields hold values read from the document. Input fields are different:
 
 3. The field appears in the entity list. Click **Edit Settings** next to `sender_email`. In the right panel, set **Processor Type** to **Input**.
 
-   The **Input** processor type marks this field as workflow-populated rather than AI-extracted. The model will not attempt to read it from the document; only a workflow expression can write to it.
+   The **Input** processor type marks this field as workflow-populated rather than AI-extracted. The model will not attempt to read it from the document. Only a workflow expression can write to it.
 
    Click **Save**.
 <br>![](images/06_01_0020.png)
