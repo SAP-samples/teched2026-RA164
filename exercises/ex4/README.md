@@ -18,7 +18,7 @@ So far you have uploaded PDF files directly. In practice, Payment Advice documen
    Click **Create**.
 <br>![](images/05_01_0020.png)
 
-3. The workflow canvas opens with a **Start** node and a **+** placeholder.
+3. The workflow appears in the list. Click it to open it. The workflow canvas opens with a **Start** node and a **+** placeholder.
 
 ## Exercise 4.2 - Add an Email Split Node
 
