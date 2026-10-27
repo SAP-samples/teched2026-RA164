@@ -14,8 +14,9 @@ In this hands-on session you will configure SAP Document AI end-to-end to proces
 
 ## Getting Started
 
-Open the URL provided by your session facilitator and log in with the credentials they shared with you. You will land on the SAP Document AI home screen.\
-You can also use our user number to find UI by using the pattern: https://{{UserName}}.eu10.doc.cloud.sap/launchpad. For example, https://ra164-041.eu10.doc.cloud.sap/launchpad for user RA164-041@education.cloud.sap.
+Open the URL provided by your session facilitator and log in with the credentials they shared with you. You will land on the SAP Document AI home screen.
+
+See [SAP Document AI Workspace UI access](exercises/access.md) for the full list of group URLs and user IDs.
 
 From here you can take any path that suits you:
 - Follow the **Guided Exercises** below for a structured end-to-end walkthrough.
