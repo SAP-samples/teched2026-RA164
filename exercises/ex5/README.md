@@ -52,7 +52,7 @@ Extracted fields hold values read from the document. Input fields are different:
 3. Find the **Sender Email** field in the **Basic Data** section; it should show `accounts.payable@acme-corp.com`, the sender address from the email, not extracted from the PDF. Notice that **Payment Scope** still shows `SEPA`, inferred purely from the payer and payee country data.
 <br>![](images/06_03_0010.png)
 
-   This pattern is powerful in production: you can stamp every document with its origin channel, the operator who uploaded it, or any other runtime context that the AI cannot see inside the document.
+   This pattern is powerful in production: you can enrich every document with its origin channel, the operator who uploaded it, or any other runtime context that the AI cannot see inside the document.
 
 ## Summary
 
