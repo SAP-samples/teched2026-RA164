@@ -109,8 +109,6 @@ The extension workflow only fires if it is registered on the schema. The **Notif
 3. Click **Confirm**.
 <br>![](images/07_05_0020.png)
 
-4. Click **Save**.
-
 ## Exercise 6.6 - Test End-to-End
 
 1. Execute `my_payment_basic` with `payment_advice_acme_jul2026.eml` (EUR 48,250, below threshold). Once extracted, confirm the document manually if auto-confirm did not trigger.
