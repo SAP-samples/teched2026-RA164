@@ -1,6 +1,6 @@
 # Exercise 3 - Review Documents
 
-After consistent use, extraction results become reliable enough to skip manual review for high-confidence documents. In this exercise you will review and correct a document.
+In this exercise you will review and correct a document extracted by SAP Document AI.
 
 ## Exercise 3.1 - Review and Correct a Document
 
