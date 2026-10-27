@@ -128,7 +128,7 @@ You have built a complete end-to-end document processing pipeline:
 |---|---|
 | 1 | Activated and trimmed PAYMENT_ADVICE_STANDARD, processed a first document |
 | 2 | Added a custom `payment_scope` field with AI processing instructions |
-| 3 | Enabled automatic confirmation based on confidence thresholds |
+| 3 | Reviewed and corrected extracted document values |
 | 4 | Built a Basic workflow to process emails with mixed attachments |
 | 5 | Captured the sender email address as an input field via workflow expression |
 | 6 | Created a Document Extension workflow that routes on extracted value |
