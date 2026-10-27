@@ -31,7 +31,7 @@ Work through these in order. Each exercise builds on the previous one.
 
 - [Exercise 1 - Set up the Payment Advice schema and process your first document](exercises/ex1/)
 - [Exercise 2 - Add a custom field with processing instructions](exercises/ex2/)
-- [Exercise 3 - Review documents and enable automatic confirmation](exercises/ex3/)
+- [Exercise 3 - Review documents and correct extracted values](exercises/ex3/)
 - [Exercise 4 - Build a Basic workflow for email processing](exercises/ex4/)
 - [Exercise 5 - Add an input field and capture email metadata](exercises/ex5/)
 - [Exercise 6 - Create a Document Extension workflow with value-based routing](exercises/ex6/)
@@ -43,6 +43,7 @@ Finished early or want to dig deeper? These standalone exercises are independent
 - [Explore A - Build a custom schema from scratch with vision mode](exercises/ex7/)
 - [Explore B - Improve extraction accuracy with Instant Learning](exercises/ex8/)
 - [Explore C - Auto-generate a schema by uploading a document](exercises/ex9/)
+- [Explore D - Enable automatic confirmation based on confidence scores](exercises/ex10/)
 
 ## Sample Documents
 
