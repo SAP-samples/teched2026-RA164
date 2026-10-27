@@ -2,7 +2,7 @@
 
 An Extension workflow fires automatically at a defined point in the document lifecycle: either after prediction (before the document reaches Review Needed) or after review (before the document is confirmed). It receives the full extraction result and can act on it: calling an external system, sending a notification, or, as in this exercise, routing the document to different paths based on extracted values.
 
-You will build an extension workflow that checks the gross payment amount: payments above EUR 100,000 are sent back to **Review Needed** for manual review; payments at or below that threshold stay **Confirmed** for straight-through processing.
+You will build an extension workflow that checks the gross payment amount. Payments above EUR 100,000 are set to **Review Needed** for manual review. Payments at or below that threshold are set to **Confirmed** for straight-through processing.
 
 ## Exercise 6.1 - Create the Extension Workflow
 
