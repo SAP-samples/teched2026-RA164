@@ -56,4 +56,4 @@ Extracted fields hold values read from the document. Input fields are different:
 
 ## Summary
 
-You have added an input field and used a workflow expression to populate it from email metadata. Continue to [Exercise 6](../ex6/README.md) to build a Document Extension workflow that routes high-value payments to a separate approval path.
+You have added an input field and used a workflow expression to populate it from email metadata. Continue to [Exercise 6](../ex6/README.md) to build a Document Extension workflow that routes high-value payments to a separate review while auto-confirming the others.
