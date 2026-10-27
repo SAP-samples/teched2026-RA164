@@ -29,7 +29,7 @@ The schema comes with a detailed `businessPartner` group containing many granula
 
    - **Entities**: the fields the AI extracts. Each field has a name, data type, and field type (Extraction or Input).
    - **Processing Settings**: natural-language instructions that guide the AI per field. Used in Exercise 2.
-   - **Automation**: confidence thresholds for automatic confirmation. Configured in Exercise 3.
+   - **Automation**: confidence thresholds for automatic confirmation. Configured in Explore D.
    - **Notifications and Extensions**: links workflows that fire after processing. Configured in Exercise 6.
 <br>![](images/01_02_0010.png)
 
