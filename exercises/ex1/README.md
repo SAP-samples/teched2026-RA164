@@ -21,7 +21,7 @@ SAP ships ready-made **content schemas** for common business document types. You
 
 ## Exercise 1.2 - Trim the Schema
 
-The schema comes with a detailed `businessPartner` group containing many granular address sub-fields. For Payment Advice processing we only need the sender name and address; the rest adds noise. You will remove the unnecessary fields now.
+The schema comes with a detailed `businessPartner` group containing many granular address sub-fields. For our exercise we only need the sender name and address; the rest adds noise. You will remove the unnecessary fields now.
 
 1. Click **PAYMENT_ADVICE_STANDARD**, then **Version 1**.
 
