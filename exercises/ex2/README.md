@@ -50,4 +50,4 @@ The standard Payment Advice schema extracts financial data but does not classify
 
 ## Summary
 
-You have extended a content schema with a custom field driven by natural-language processing instructions. Continue to [Exercise 3](../ex3/README.md) to automate the review step.
+You have extended a content schema with a custom field driven by natural-language processing instructions. Continue to [Exercise 3](../ex3/README.md) to review your extracted documents.
