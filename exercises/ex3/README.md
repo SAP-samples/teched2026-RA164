@@ -17,7 +17,7 @@ In this exercise you will review and correct a document extracted by SAP Documen
 3. Work through any fields flagged with a yellow or red confidence indicator. Once satisfied with all values, click **Save and Confirm**. The document status changes to **Confirmed**.
 <br>![](images/04_01_0030.png)
 
-   > **Tip:** Look closely at the **Sender Address** field in the **Business Partner** section. On this document the AI may extract the receiving party's address instead of the sender's. This is a good example of where human review catches what automation misses — correct it using the annotation technique from step 2.
+   > **Tip:** Look closely at the **Business Partner Address** field in the **Business Partner** section. On this document the AI may extract the receiving party's address instead of the sender's. This is a good example of where human review catches what automation misses.
 
 ## Summary
 
