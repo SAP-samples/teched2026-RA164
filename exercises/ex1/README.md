@@ -14,7 +14,7 @@ SAP ships ready-made **content schemas** for common business document types. You
 3. Search for `PAYMENT_ADVICE`. Select the checkbox next to **PAYMENT_ADVICE_STANDARD** and click **Enable**.
 <br>![](images/01_01_0010.png)
 
-4. In the dialog, select version **1**, check **Activate immediately**, and click **Create**.
+4. In the dialog, select version **1**, check **Activate**, and click **Create**.
 <br>![](images/01_01_0020.png)
 
 5. Switch to the **User** tab. The schema appears with status **Active**.
