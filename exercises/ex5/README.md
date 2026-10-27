@@ -23,7 +23,7 @@ Extracted fields hold values read from the document. Input fields are different:
 
    The **Input** processor type marks this field as workflow-populated rather than AI-extracted. The model will not attempt to read it from the document. Only a workflow expression can write to it.
 
-   Click **Save**.
+   > **Important:** First click **Save** next to the **Sender Email** field to save the field settings, then click **Save** in the lower right to save the schema version.
 <br>![](images/06_01_0020.png)
 
 4. Click **Activate** to reactivate the schema.
