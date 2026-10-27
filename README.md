@@ -8,7 +8,7 @@ This repository contains the material for the SAP TechEd 2026 session **RA164 - 
 
 ## Overview
 
-In this hands-on session you will configure SAP Document AI end-to-end to process incoming Payment Advice documents. You will activate a pre-built extraction schema, customise it for your business needs, automate the review process, and build a workflow that handles emails with mixed attachments, extracting only the relevant PDF and stamping it with email metadata. A Document Extension workflow then routes high-value payments to a separate approval path.
+In this hands-on session you will configure SAP Document AI end-to-end to process incoming Payment Advice documents. You will activate a pre-built extraction schema, customise it for your business needs, and build a workflow that handles emails with mixed attachments, extracting only the relevant PDF and stamping it with email metadata. A Document Extension workflow then routes high-value payments to a separate approval path.
 
 **Duration:** approximately 60 minutes
 
