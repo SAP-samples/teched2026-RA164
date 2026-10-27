@@ -19,4 +19,4 @@ In this exercise you will review and correct a document extracted by SAP Documen
 
 ## Summary
 
-You have reviewed a document manually and corrected extracted values. If you want to automate this step for high-confidence documents, see [Explore D - Enable Automatic Confirmation](../ex10/README.md). Continue to [Exercise 4](../ex4/README.md) to build a workflow that processes emails.
+You have reviewed a document manually and corrected extracted values. Once you are done with all exercises and want to automate this step for high-confidence documents, see [Explore D - Enable Automatic Confirmation](../ex10/README.md). Continue to [Exercise 4](../ex4/README.md) to build a workflow that processes emails.
