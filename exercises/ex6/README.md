@@ -1,6 +1,6 @@
 # Exercise 6 - Create a Document Extension Workflow with Value-Based Routing
 
-A Document Extension workflow fires automatically after a document is confirmed. It receives the full extraction result and can act on it: calling an external system, sending a notification, or, as in this exercise, routing the document to different paths based on extracted values.
+An Extension workflow fires automatically at a defined point in the document lifecycle: either after prediction (before the document reaches Review Needed) or after review (before the document is confirmed). It receives the full extraction result and can act on it: calling an external system, sending a notification, or, as in this exercise, routing the document to different paths based on extracted values.
 
 You will build an extension workflow that checks the gross payment amount: payments above EUR 100,000 are sent back to **Review Needed** for manual review; payments at or below that threshold stay **Confirmed** for straight-through processing.
 
