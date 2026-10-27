@@ -117,7 +117,7 @@ The extension workflow only fires if it is registered on the schema. The **Notif
 
 2. Execute `my_payment_basic` with `payment_advice_meridian_sep2026.eml` (EUR 113,695, above threshold). Confirm the document.
 
-3. Open **Manage Documents**. The Meridian document should show **Review Needed**: the extension workflow set it back after confirmation. The ACME document should remain **Confirmed**.
+3. Open **Manage Documents**. The Meridian document should show **Review Needed**: the extension workflow set it to that status. The ACME document should show **Confirmed**.
 <br>![](images/07_06_0010.png)
 
 ## Summary
