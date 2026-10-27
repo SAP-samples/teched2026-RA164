@@ -1,6 +1,6 @@
 # Exercise 3 - Review Documents
 
-After consistent use, extraction results become reliable enough to skip manual review for high-confidence documents. In this exercise you will review and correct a document.
+In this exercise you will review and correct a document extracted by SAP Document AI.
 
 ## Exercise 3.1 - Review and Correct a Document
 
@@ -17,6 +17,8 @@ After consistent use, extraction results become reliable enough to skip manual r
 3. Work through any fields flagged with a yellow or red confidence indicator. Once satisfied with all values, click **Save and Confirm**. The document status changes to **Confirmed**.
 <br>![](images/04_01_0030.png)
 
+   > **Tip:** Look closely at the **Sender Address** field in the **Business Partner** section. On this document the AI may extract the receiving party's address instead of the sender's. This is a good example of where human review catches what automation misses — correct it using the annotation technique from step 2.
+
 ## Summary
 
-You have reviewed a document manually and corrected extracted values. If you want to automate this step for high-confidence documents, see [Explore D - Enable Automatic Confirmation](../ex10/README.md). Continue to [Exercise 4](../ex4/README.md) to build a workflow that processes emails.
+You have reviewed a document manually and corrected extracted values. Continue to [Exercise 4](../ex4/README.md) to build a workflow that processes emails.
